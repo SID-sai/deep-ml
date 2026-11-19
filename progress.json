@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T04:21:11.012Z",
+  "generated_at": "2026-11-19T05:14:35.762Z",
   "items": {
     "problem:2": {
       "kind": "problem",
@@ -284,6 +284,19 @@
       "path": "problems/0103-implement-the-selu-activation-function",
       "first_solved_at": "2026-11-19T04:21:09.408Z",
       "last_pushed_at": "2026-11-19T04:21:09.408Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:263": {
+      "kind": "problem",
+      "id": "263",
+      "title": "Implement Binary Cross-Entropy Loss",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/263",
+      "path": "problems/0263-implement-binary-cross-entropy-loss",
+      "first_solved_at": "2026-11-19T05:14:33.940Z",
+      "last_pushed_at": "2026-11-19T05:14:33.940Z",
       "language": "python",
       "lines": 18
     }

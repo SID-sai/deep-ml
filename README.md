@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-10 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Covariance Matrix](https://www.deep-ml.com/problems/10) | easy | 2026-11-10 | [solution](problems/0010-calculate-covariance-matrix) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-11-10 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [GeLU Activation Function ](https://www.deep-ml.com/problems/147) | easy | 2026-11-23 | [solution](problems/0147-gelu-activation-function) |
 | [Implement Binary Cross-Entropy Loss](https://www.deep-ml.com/problems/263) | easy | 2026-11-19 | [solution](problems/0263-implement-binary-cross-entropy-loss) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-18 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-11-20 | [solution](problems/0156-implement-swiglu-activation-function) |
